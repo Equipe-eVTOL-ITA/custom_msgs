@@ -1,0 +1,2 @@
+float32 hand_x
+float32 hand_y
