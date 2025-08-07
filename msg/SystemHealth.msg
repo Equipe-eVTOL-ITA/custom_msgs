@@ -3,3 +3,4 @@ float32 cpu_percent
 float32 memory_percent
 float32 temperature
 float32 disk_usage_percent
+float32 gpu_percent
